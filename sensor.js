@@ -91,7 +91,7 @@ class Sensor{
 
             ctx.beginPath();
             ctx.lineWidth=2;
-            ctx.strokeStyle="yellow";
+            ctx.strokeStyle="lightGreen";
             ctx.moveTo(
                 this.rays[i][0].x,
                 this.rays[i][0].y
